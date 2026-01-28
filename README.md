@@ -4,7 +4,7 @@ This project is a MATLAB-based control system for a LEGO Mindstorms EV3 robot ca
 
 ## Demo Video and Final Robot Design
 [![Watch on YouTube](https://img.youtube.com/vi/BWAP3AxwybM/0.jpg)](https://youtu.be/BWAP3AxwybM)
-![View Final Robot Design](images/final_design.png)
+[View Final Robot Design](images/final_design.png)
 
 ## Features
 
